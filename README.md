@@ -22,6 +22,11 @@ Functionality:
 - Player Image: Displays an image of the player
 - Player username: Displays the Player Username for the pertinent game
 
+Technologies Used:
+1. Materialize
+2. FireBase
+3. Google Fonts
+
 ## Demo
 ![ESportsRoastDemo](./assets/vids/ESportsRoastDemo.gif)
 
