@@ -1,6 +1,6 @@
 # teamprojectone
 
-Functionality:
+## Functionality:
 1. Index
 - Header Navigation: Click a link to take you to that page
 - Video Selection: Click a thumbnail to open that video on the watch page and add a query to the url to access data from FireStore
@@ -22,10 +22,13 @@ Functionality:
 - Player Image: Displays an image of the player
 - Player username: Displays the Player Username for the pertinent game
 
-Technologies Used:
-1. Materialize
-2. FireBase
-3. Google Fonts
+## Technologies Used:
+- HTML 5
+- CSS 3
+- Javascript ES6+
+- Materialize
+- FireBase
+- Google Fonts
 
 ## Demo
 ![ESportsRoastDemo](./assets/vids/ESportsRoastDemo.gif)
