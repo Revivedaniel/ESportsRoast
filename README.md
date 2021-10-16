@@ -34,4 +34,4 @@
 ![ESportsRoastDemo](./assets/vids/ESportsRoastDemo.gif)
 
 ## Live Site
-https://ernie2021.github.io/teamprojectone/
+https://revivedaniel.github.io/ESportsRoast/
