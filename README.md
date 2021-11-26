@@ -1,6 +1,6 @@
 # E-Sports Roast
 
-## Summary
+## Description
 This project tackles the issue of having no social site for E-Sports related topics. On this site you can view E-Sports moments and flame them.
 
 ## Functionality:
